@@ -1,7 +1,3 @@
-from multiprocessing.dummy import current_process
-from re import T
-
-
 class Node:
     """
     An object for storing a single node of a linked list.
