@@ -1,4 +1,4 @@
-from linked_list import LinkedList
+from linked_lists import LinkedList
 
 def merge_sort(linked_list):
     """
